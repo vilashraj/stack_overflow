@@ -26,7 +26,6 @@ dependencies:
   dio: 3.0.10
   bloc: 6.0.3
   flutter_bloc: 6.0.5
-  device_info: 0.4.2+7
   connectivity: 0.4.9+2
   webview_flutter: ^1.0.7
 

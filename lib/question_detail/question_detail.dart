@@ -1,8 +1,6 @@
 import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:stack_overflow_vilash/utility/base/emtpy_screen.dart';
-import 'package:stack_overflow_vilash/utility/custom_bloc/custom_bloc.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 class QuestionDetail extends StatefulWidget {
